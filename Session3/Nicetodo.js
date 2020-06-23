@@ -17,5 +17,5 @@ function checkOdd(odd){
     return odd%2 ==1;
 }
 let arrNum1=(arrNum.filter(checkOdd));
-alert(`${strNum} => ${arrNum1}`);;;;;
+alert(`${strNum} => ${arrNum1}`);
  
